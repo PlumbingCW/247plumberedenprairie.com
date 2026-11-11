@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://247plumberedenprairie.com/sitemap.xml
